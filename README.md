@@ -3,21 +3,50 @@ Web browser extension - Effortlessly organized, lightning-fast access to your bo
 
 The power of **Bookmark Blitz**: Simplify bookmark navigation in Microsoft Edge! Swiftly find bookmarks in large sets and track usage with our extension. Enhance your browsing with efficient management and insights.
 
-If you want to add feature requests, report bugs or ask questions, please leave your message [here](https://forms.gle/P4E8rqMzWwjvq6EY9)
+## To users
 
+🚀 **Dear Valued User,**
 
+I hope you're enjoying **Bookmark Blitz**! 🌟 As a developer, your experience and feedback mean the world to me. Your insights help me enhance and refine the extension to better meet your needs.
+
+If **Bookmark Blitz** has made your browsing experience more seamless or added value to your tasks, would you consider taking a moment to share your thoughts? Your review not only fuels my motivation but also assists fellow users in discovering the benefits of our extension.
+
+🌈 **Why Your Review Matters:**
+
+- **Community Building:** Join the growing community and share your experience.
+- **Feedback Loop:** Your insights guide future updates and improvements.
+- **Help Others:** Your review helps others discover a tool that could make their browsing better.  
+
+📝 **How to Leave a Review:**
+
+- Visit the Web Store page that matches your browser shown in the previous section.  
+- Find the "Reviews" section.
+- Click on "Write a review" and share your thoughts!
+
+If you prefer to provide feedback without writing a review, I also welcome your thoughts through the [Feedback Form](https://forms.gle/P4E8rqMzWwjvq6EY9). Your input is invaluable, and we appreciate you helping us make **Bookmark Blitz** even better.
+
+Thank you for being a part of the **Bookmark Blitz** journey. Together, let's make browsing better for everyone!
+
+Best Regards,
 
 ## Browser Support
 
-| Browser | Supported |
-| :---: | :---: |
-| Microsoft Edge | :white_check_mark: |
-| Google Chrome | :white_check_mark: |
-| Safari | :black_square_button: |
-| Firefox | :black_square_button: |
-| Opera | Coming soon |
-| Brave | Coming soon |
+| Browser | Supported | Installation |
+| :---: | :---: | :---: |
+| Microsoft Edge | :white_check_mark: | |
+| Google Chrome | :white_check_mark: | [Chrome Web Store](https://chromewebstore.google.com/detail/bookmark-blitz/clcdagfjmabhoblkfoohhignmlijcpfo?hl=en-US&utm_source=ext_sidebar) |
+| Safari | :black_square_button: | |
+| Firefox | :black_square_button: | |
+| Opera | Coming soon | |
+| Brave | Coming soon | |
 
+
+## Support Languages
+
+| Language | Supported |
+| :---: | :---: |
+| English | :white_check_mark: |
+| Chinese | :white_check_mark: |
 
 
 ## Features 
