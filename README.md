@@ -33,7 +33,7 @@ Best Regards,
 
 | Browser | Supported | Installation |
 | :---: | :---: | :---: |
-| Microsoft Edge | :white_check_mark: | |
+| Microsoft Edge | :white_check_mark: | [Microsoft Edge Store](https://microsoftedge.microsoft.com/addons/detail/bookmark-blitz/naemcogpihadehmpigkjkifaaphkaldc) |
 | Google Chrome | :white_check_mark: | [Chrome Web Store](https://chromewebstore.google.com/detail/bookmark-blitz/clcdagfjmabhoblkfoohhignmlijcpfo?hl=en-US&utm_source=ext_sidebar) |
 | Safari | :black_square_button: | |
 | Firefox | :black_square_button: | |
