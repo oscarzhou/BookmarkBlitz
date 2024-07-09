@@ -46,7 +46,8 @@ Best Regards,
 | Language | Supported |
 | :---: | :---: |
 | English | :white_check_mark: |
-| Chinese | :white_check_mark: |
+| Chinese (China) | :white_check_mark: |
+| Chinese (TaiWan) | :white_check_mark: |
 
 
 ## Features 
@@ -56,3 +57,10 @@ Best Regards,
 ![narrow down the search result with space](MicrosoftEdge/imgs/search-term-with-space.png)
 
 ![list result views](MicrosoftEdge/imgs/search-result-views.png)
+
+## Releases
+
+Link: [Relase note](release.md)
+
+
+
