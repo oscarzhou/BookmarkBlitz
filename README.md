@@ -48,6 +48,11 @@ Best Regards,
 | English | :white_check_mark: |
 | Chinese (China) | :white_check_mark: |
 | Chinese (TaiWan) | :white_check_mark: |
+| Arabic | :white_check_mark: |
+| German | :white_check_mark: |
+| French | :white_check_mark: |
+| Japanese | :white_check_mark: |
+| Korean | :white_check_mark: |
 
 
 ## Features 
