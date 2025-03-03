@@ -3,6 +3,10 @@ Web browser extension - Effortlessly organized, lightning-fast access to your bo
 
 The power of **Bookmark Blitz**: Simplify bookmark navigation in Microsoft Edge! Swiftly find bookmarks in large sets and track usage with our extension. Enhance your browsing with efficient management and insights.
 
+## Releases
+
+[Relase notes](release.md)
+
 ## To users
 
 🚀 **Dear Valued User,**
@@ -52,15 +56,13 @@ Best Regards,
 
 ## Features 
 
-![list search result](MicrosoftEdge/imgs/search-list.png)
+![list search result](MicrosoftEdge/imgs/2.0.0-1.png)
 
-![narrow down the search result with space](MicrosoftEdge/imgs/search-term-with-space.png)
+![QR code](MicrosoftEdge/imgs/2.0.0-2.png)
 
-![list result views](MicrosoftEdge/imgs/search-result-views.png)
+![setting](MicrosoftEdge/imgs/2.0.0-3.png)
 
-## Releases
-
-Link: [Relase note](release.md)
+![clicks record](MicrosoftEdge/imgs/2.0.0-4.png)
 
 
 
