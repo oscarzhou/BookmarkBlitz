@@ -1,0 +1,32 @@
+{
+  "bookmarkBlitz": {
+    "message": "書簽閃電戰"
+  },
+  "resultCount": {
+    "message": "在 {{total_count}} 個書簽中匹配到 {{count}} 個書簽"
+  },
+  "searchInputPlaceholder": {
+    "message": "嘗試輸入書簽或網址的關鍵詞"
+  },
+  "totalBookmarks": {
+    "message": "總書簽數"
+  },
+  "optionDeleteBookmark": {
+    "message": "刪除書簽選項"
+  },
+  "optionQRCode": {
+    "message": "二維碼選項"
+  },
+  "views": {
+    "message": "點擊"
+  },
+  "search": {
+    "message": "搜尋"
+  },
+  "featureRequest": {
+    "message": "功能請求"
+  },
+  "supportMe": {
+    "message": "支持我"
+  }
+}

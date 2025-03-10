@@ -1,0 +1,32 @@
+{
+  "bookmarkBlitz": {
+    "message": "북마크 블리츠"
+  },
+  "resultCount": {
+    "message": "{{total_count}}개의 북마크 중 {{count}}개의 북마크를 찾았습니다"
+  },
+  "searchInputPlaceholder": {
+    "message": "북마크 또는 URL의 키워드를 입력해 보세요"
+  },
+  "totalBookmarks": {
+    "message": "총 북마크 수"
+  },
+  "optionDeleteBookmark": {
+    "message": "북마크 삭제 옵션"
+  },
+  "optionQRCode": {
+    "message": "QR 코드 옵션"
+  },
+  "views": {
+    "message": "조회수"
+  },
+  "search": {
+    "message": "검색"
+  },
+  "featureRequest": {
+    "message": "기능 요청"
+  },
+  "supportMe": {
+    "message": "저를 지원해주세요"
+  }
+}

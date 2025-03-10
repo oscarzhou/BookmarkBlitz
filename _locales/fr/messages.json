@@ -1,0 +1,32 @@
+{
+  "bookmarkBlitz": {
+    "message": "Blitz de favoris"
+  },
+  "resultCount": {
+    "message": "{{count}} favoris trouvés sur {{total_count}} favoris"
+  },
+  "searchInputPlaceholder": {
+    "message": "Essayez des mots-clés de favoris ou des URL"
+  },
+  "totalBookmarks": {
+    "message": "Total des favoris"
+  },
+  "optionDeleteBookmark": {
+    "message": "Option de suppression de favori"
+  },
+  "optionQRCode": {
+    "message": "Option de code QR"
+  },
+  "views": {
+    "message": "Vues"
+  },
+  "search": {
+    "message": "Rechercher"
+  },
+  "featureRequest": {
+    "message": "Demande de fonctionnalité"
+  },
+  "supportMe": {
+    "message": "Soutenez-moi"
+  }
+}

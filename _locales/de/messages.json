@@ -1,0 +1,32 @@
+{
+  "bookmarkBlitz": {
+    "message": "Lesezeichen-Blitz"
+  },
+  "resultCount": {
+    "message": "{{count}} Lesezeichen in {{total_count}} Lesezeichen gefunden"
+  },
+  "searchInputPlaceholder": {
+    "message": "Versuchen Sie, Stichwörter von Lesezeichen oder URLs einzugeben"
+  },
+  "totalBookmarks": {
+    "message": "Lesezeichen insgesamt"
+  },
+  "optionDeleteBookmark": {
+    "message": "Lesezeichen löschen Option"
+  },
+  "optionQRCode": {
+    "message": "QR-Code Option"
+  },
+  "views": {
+    "message": "Ansichten"
+  },
+  "search": {
+    "message": "Suchen"
+  },
+  "featureRequest": {
+    "message": "Funktionsanfrage"
+  },
+  "supportMe": {
+    "message": "Unterstütze mich"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "bookmarkBlitz": {
+    "message": "Bookmark Blitz"
+  },
+  "resultCount": {
+    "message": "{{count}} bookmarks found in {{total_count}} bookmarks"
+  },
+  "searchInputPlaceholder": {
+    "message": "Try keywords of bookmarks or URLs"
+  },
+  "totalBookmarks": {
+    "message": "Total Bookmarks"
+  },
+  "optionDeleteBookmark": {
+    "message": "Delete Bookmark Option"
+  },
+  "optionQRCode": {
+    "message": "QR Code Option"
+  },
+  "views": {
+    "message": "Clicks"
+  },
+  "search": {
+    "message": "Search"
+  },
+  "featureRequest": {
+    "message": "Feature Request"
+  },
+  "supportMe": {
+    "message": "Support Me"
+  }
+}

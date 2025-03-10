@@ -1,0 +1,32 @@
+{
+  "bookmarkBlitz": {
+    "message": "ブックマークブリッツ"
+  },
+  "resultCount": {
+    "message": "{{total_count}} 個のブックマーク中 {{count}} 個が見つかりました"
+  },
+  "searchInputPlaceholder": {
+    "message": "ブックマークやURLのキーワードを入力してください"
+  },
+  "totalBookmarks": {
+    "message": "ブックマークの総数"
+  },
+  "optionDeleteBookmark": {
+    "message": "ブックマーク削除オプション"
+  },
+  "optionQRCode": {
+    "message": "QRコードオプション"
+  },
+  "views": {
+    "message": "閲覧数"
+  },
+  "search": {
+    "message": "検索"
+  },
+  "featureRequest": {
+    "message": "機能リクエスト"
+  },
+  "supportMe": {
+    "message": "サポートしてください"
+  }
+}

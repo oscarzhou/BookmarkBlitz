@@ -1,0 +1,32 @@
+{
+  "bookmarkBlitz": {
+    "message": "العلامات السريعة"
+  },
+  "resultCount": {
+    "message": "تم العثور على {{count}} علامة مرجعية من أصل {{total_count}}"
+  },
+  "searchInputPlaceholder": {
+    "message": "جرب كلمات رئيسية من العلامات المرجعية أو العناوين"
+  },
+  "totalBookmarks": {
+    "message": "إجمالي العلامات المرجعية"
+  },
+  "optionDeleteBookmark": {
+    "message": "خيار حذف العلامة المرجعية"
+  },
+  "optionQRCode": {
+    "message": "خيار رمز الاستجابة السريعة"
+  },
+  "views": {
+    "message": "المشاهدات"
+  },
+  "search": {
+    "message": "بحث"
+  },
+  "featureRequest": {
+    "message": "طلب ميزة"
+  },
+  "supportMe": {
+    "message": "ادعمني"
+  }
+}

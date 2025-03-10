@@ -1,0 +1,32 @@
+{
+  "bookmarkBlitz": {
+    "message": "书签闪电战"
+  },
+  "resultCount": {
+    "message": "在 {{total_count}} 个书签中匹配到 {{count}} 个书签"
+  },
+  "searchInputPlaceholder": {
+    "message": "尝试输入书签或网址的关键词"
+  },
+  "totalBookmarks": {
+    "message": "总书签数"
+  },
+  "optionDeleteBookmark": {
+    "message": "删除书签选项"
+  },
+  "optionQRCode": {
+    "message": "二维码选项"
+  },
+  "views": {
+    "message": "点击"
+  },
+  "search": {
+    "message": "搜索"
+  },
+  "featureRequest": {
+    "message": "功能请求"
+  },
+  "supportMe": {
+    "message": "支持我"
+  }
+}
