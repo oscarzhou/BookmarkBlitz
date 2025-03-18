@@ -5,7 +5,7 @@ The power of **Bookmark Blitz**: Simplify bookmark navigation in Microsoft Edge!
 
 ## Releases
 
-[Relase notes](release.md)
+[Release notes](release.md)
 
 ## To users
 
