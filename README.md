@@ -61,13 +61,13 @@ Best Regards,
 
 ## Features 
 
-![list search result](MicrosoftEdge/imgs/2.0.0-1.png)
+![list search result](GoogleChrome/2.3.0/1.png)
 
-![QR code](MicrosoftEdge/imgs/2.0.0-2.png)
+![QR code](GoogleChrome/2.3.0/2.png)
 
-![setting](MicrosoftEdge/imgs/2.0.0-3.png)
+![setting](GoogleChrome/2.3.0/3.png)
 
-![clicks record](MicrosoftEdge/imgs/2.0.0-4.png)
+![clicks record](GoogleChrome/2.3.0/4.png)
 
 
 
